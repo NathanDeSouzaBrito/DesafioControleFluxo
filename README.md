@@ -75,10 +75,10 @@ java Contador
 ## 📁 Estrutura do Projeto
 
 ```
-DesafioControleFluxo/
+src/
 ├── Contador.java
 ├── ParametrosInvalidosException.java
-└── README.md
+README.md
 ```
 
 ---
